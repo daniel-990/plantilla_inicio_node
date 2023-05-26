@@ -1,0 +1,11 @@
+{
+    "servidordb": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "servidor":{
+        "puerto":5000
+    }
+}
